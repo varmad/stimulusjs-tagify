@@ -1,0 +1,15 @@
+
+@import '@yaireo/tagify/dist/tagify.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+  color: white;
+  background: #111;
+  background: linear-gradient(145deg, #a20838 0%, #36144b 100%);
+  text-align: center;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #CCC;
+}
